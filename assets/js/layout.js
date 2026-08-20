@@ -36,19 +36,13 @@
                     <div class="top-header-right d-none d-md-block">
                         <div class="item-flex">
 
-                            <a href="#">
+                            <a href="https://www.facebook.com/profile.php?id=61591000192825">
                                 <i class="fa-brands fa-facebook-f"></i>
                             </a>
 
-                            <a href="#">
-                                <i class="fa-brands fa-x-twitter"></i>
-                            </a>
+                            
 
-                            <a href="#">
-                                <i class="fa-brands fa-youtube"></i>
-                            </a>
-
-                            <a href="#">
+                            <a href="https://www.instagram.com/?hl=en">
                                 <i class="fa-brands fa-instagram"></i>
                             </a>
 
@@ -548,9 +542,7 @@
                                         <div class="d-flex flex-column gap-1">
 
                                             <p class="text-white">
-                                                4/104 Adarsh Market,
-                                                Vinay Khand 4,
-                                                Gomti Nagar, Lucknow
+                                               Near SM School RDSO,Manak Nagar,Alambagh Lucknow, Uttar Pradesh
                                             </p>
 
                                         </div>
@@ -684,8 +676,7 @@
 
                                 Design and Developed by
 
-                                <a href="https://www.linkedin.com/in/sakib-khan-8b5312272/"
-                                   target="_blank">
+                                <a href="#">
 
                                     CODERSARTH TECHNOLOGIES
 
