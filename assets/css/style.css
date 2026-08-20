@@ -16352,13 +16352,13 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 
 .primary-btn, .secondary3-btn {
     padding: 10px 24px;
-    background-color: #f68713;
+    background-color: #54a646;
     display: flex;
     align-items: center;
     justify-content: center;
     color: #ffffff !important;
     font-weight: 600;
-    border: 1px solid #f68713;
+    border: 1px solid #54a646;
     max-width: -moz-fit-content;
     max-width: fit-content;
     gap: 8px;
@@ -16785,7 +16785,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     bottom: 28px;
     right: 28px;
     z-index: 999;
-    background-color: #f68713;
+    background-color: #54a646;
     color: #fff;
     width: 50px;
     height: 50px;
@@ -16936,7 +16936,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     }
 
         .header .menu li span.active, .header .menu li a.active {
-            color: #f68713;
+            color: #54a646;
         }
 
 .header .menu .submenu {
@@ -16971,7 +16971,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 }
 
 .header .menu .submenu span.active {
-    color: #f68713;
+    color: #54a646;
 }
 
 .header .menu .submenu .submenu-dropdown {
@@ -17002,7 +17002,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     }
 
     .header .menu .submenu .submenu-dropdown li a.active {
-        color: #f68713;
+        color: #54a646;
     }
 
 @media(min-width: 992px) {
@@ -17075,7 +17075,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 
 .header .toggle-menu {
     flex-shrink: 0;
-    color: #f68713;
+    color: #54a646;
     font-size: 2rem;
 }
 
@@ -17413,7 +17413,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
             }
 
                 .mobile-menu .menu li span.active, .mobile-menu .menu li a.active {
-                    color: #f68713;
+                    color: #54a646;
                 }
 
         .mobile-menu .menu .submenu {
@@ -17443,7 +17443,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 }
 
 .mobile-menu .menu .submenu span.active {
-    color: #f68713;
+    color: #54a646;
 }
 
 .mobile-menu .menu .submenu .submenu-dropdown {
@@ -18245,8 +18245,8 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 }
 
 .btns button:hover, .btns-client button:hover, .btns-client-3 button:hover, .btns-client-2 button:hover {
-    background-color: #f68713;
-    border-color: #f68713;
+    background-color: #54a646;
+    border-color: #54a646;
     color: #ffffff;
 }
 
@@ -18389,7 +18389,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     font-size: 1.3rem;
     color: #ffffff;
     background-color: rgba(0,0,0,0);
-    border: 1px solid #f68713;
+    border: 1px solid #54a646;
     display: inline-block;
     width: 48px;
     height: 48px;
@@ -18836,7 +18836,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     }
 
         .btns-client button:hover, .btns-client-3 button:hover, .btns-client-2 button:hover {
-            background-color: #f68713;
+            background-color: #54a646;
         }
 
 .btns-client-2 {
@@ -19043,7 +19043,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     .social-link li a {
         border: 1px solid rgba(48,88,76,.2);
         background: rgb(255 255 255);
-        color: #f68713;
+        color: #54a646;
         width: 40px;
         height: 40px;
         font-size: 20px;
@@ -19071,7 +19071,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
         }
 
 .footer {
-    background-color: #083f91;
+    background-color: #0157a4;
 }
 
     .footer .footer-card, .footer .footer-card-3 {
@@ -19094,7 +19094,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
             }
 
                 .footer .footer-card .contact .contact-item .contact-icon, .footer .footer-card-3 .contact .contact-item .contact-icon {
-                    background-color: #f68713;
+                    background-color: #54a646;
                     width: 40px;
                     height: 40px;
                     font-size: 18px;
@@ -20072,7 +20072,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     }
 
 .faq-2 .accordion-button:not(.collapsed) {
-    background-color: #f68713;
+    background-color: #54a646;
     color: #222e48;
     box-shadow: none;
 }
@@ -20083,7 +20083,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
     }
 
 .faq-2 .accordion-button.collapsed::after {
-    /* background-color: #f68713; */
+    /* background-color: #54a646; */
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' class='icon icon-tabler icon-tabler-plus' width='28' height='28' viewBox='0 0 24 24' stroke-width='1' stroke='%23000' fill='none' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath stroke='none' d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M12 5l0 14' /%3E%3Cpath d='M5 12l14 0' /%3E%3C/svg%3E");
     /* filter: brightness(0) invert(1); */
 }
@@ -20368,11 +20368,11 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 .read-more-three {
     padding: 12px 24px;
     border-radius: 40px;
-    color: #f68713;
+    color: #54a646;
     display: inline-flex;
     align-items: center;
     gap: 24px;
-    border: 1px solid #f68713;
+    border: 1px solid #54a646;
     font-size: 20px;
     font-family: Clash Display Variable;
     font-weight: 600;
@@ -20985,7 +20985,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
         .banner-four .hero4-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
             width: 28px;
             border-radius: 20px;
-            background-color: #f68713;
+            background-color: #54a646;
         }
 
 .legal-journey {
@@ -22640,7 +22640,7 @@ input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer
 
 .white-box .category-list li > a:hover {
     background-color: #fff;
-    border-color: #f68713;
+    border-color: #54a646;
 }
 
 .white-box .category-list li > a .img-wrapper {
@@ -23756,7 +23756,7 @@ table td {
 
 .more-help .help-card i {
     padding: 14px;
-    background-color: #f68713;
+    background-color: #54a646;
     font-size: 26px;
     /* display: inline-flex; */
     margin-bottom: 16px;
@@ -24075,7 +24075,7 @@ table td {
 
     .hero4-prev:hover,
     .hero4-next:hover {
-        background: #f68713;
+        background: #54a646;
         color: #fff;
     }
 
@@ -24111,7 +24111,7 @@ table td {
 
 
 .top-header {
-    background-color: #083f91;
+    background-color: #0157a4;
     padding: 8px 0px;
     font-size: 14px;
     border-bottom: 1px solid #fff;
@@ -24166,7 +24166,7 @@ table td {
         content: "";
         bottom: -8px;
         width: 500%;
-        background: #f68713;
+        background: #54a646;
         z-index: -1;
         clip-path: polygon(2% 0%, 100% 0, 100% 100%, 0% 100%);
     }
@@ -24326,9 +24326,9 @@ table td {
     position: fixed;
     right: 28px;
     bottom: 100px;
-    background: limegreen;
+    background: #54a646;
     width: 50px;
-    height: 50px;
+    height: 48px;
     border-radius: 50%;
     color: #fff !important;
     text-align: center;
@@ -24466,9 +24466,9 @@ table td {
 }
 
     .service-btn:hover {
-        background: #f68713;
+        background: #54a646;
         color: #fff;
-        border-color: #f68713;
+        border-color: #54a646;
     }
 
 .service-content p {
@@ -24619,7 +24619,7 @@ table td {
 
 
 .impact-section {
-    background: #083f91;
+    background: #0157a4;
     color: #fff;
     padding: 80px 60px;
     margin: 80px 0px 0px;
@@ -24631,7 +24631,7 @@ table td {
     background-position: center;
     -webkit-background-size: cover;
     background-size: cover;
-    background-color: #083f91;
+    background-color: #0157a4;
     color: #fff;
 }
 
@@ -24717,7 +24717,7 @@ table td {
 
     .impact-btn:hover {
         background: #fff;
-        color: #083f91;
+        color: #0157a4;
     }
 
 .impact-image img {
@@ -25006,7 +25006,7 @@ table td {
 
     .category-list li a i {
         font-size: 14px;
-        color: #f68713;
+        color: #54a646;
         font-size: 18px;
     }
 
@@ -25158,3 +25158,5 @@ hr {
     opacity: 0.25;
     padding: 10px;
 }
+
+

@@ -21,14 +21,14 @@
                             aarambhenergies@gmail.com
                         </a>
 
-                        <a href="tel:0522-4952117">
+                        <a href="tel:+918181939372">
                             <i class="fa-solid fa-phone"></i>
-                            0522-4952117
+                            +91-8181939372
                         </a>
 
                         <a class="d-none d-md-block"
-                           href="tel:+917880550881">
-                            +91-7880550881
+                           href="tel:+918934975282">
+                            +91-8934975282
                         </a>
 
                     </div>
@@ -71,8 +71,8 @@
                     <div class="d-flex justify-content-between align-items-center w-100">
 
                         <a href="index.html">
-                            <img src="assets/images/logo/logo.png"
-                                 alt="Shahi Solar">
+                            <img src="assets/images/logo/Arambhlogo.png"
+                                 alt="Aarambh Energies">
                         </a>
 
                         <i class="fa-solid fa-xmark text-black fs-2 close-menu"></i>
@@ -205,8 +205,8 @@
 
                     <a href="index.html">
 
-                        <img src="assets/images/logo/logo.png"
-                             alt="Shahi Solar">
+                        <img src="assets/images/logo/Arambhlogo.png"
+                             alt="Aarambh Energies">
 
                     </a>
 
@@ -366,16 +366,16 @@
 
                                 <a href="index.html">
 
-                                    <img src="assets/images/logo/footer-logo.png"
+                                    <img src="assets/images/logo/footer-Arambhlogo.png"
                                          class="img-fluid mb-4"
-                                         alt="Shahi Solar">
+                                         alt="Aarambh Energies">
 
                                 </a>
 
 
                                 <p class="mb-4 pb-lg-3 text-white">
 
-                                    Shahi Solar is a trusted renewable energy
+                                    Aarambh Energies is a trusted renewable energy
                                     solutions provider committed to delivering
                                     high-quality solar systems for residential,
                                     commercial, and industrial needs.
@@ -566,14 +566,14 @@
 
                                         <div class="d-flex flex-column gap-1">
 
-                                            <a href="tel:0522-4952117"
+                                            <a href="tel:+918181939372"
                                                class="text-white">
-                                                0522-4952117
+                                                +91-8181939372
                                             </a>
 
-                                            <a href="tel:+917880550881"
+                                            <a href="tel:+918934975282"
                                                class="text-white">
-                                                +91-7880550881
+                                                +91-8934975282
                                             </a>
 
                                         </div>
@@ -627,7 +627,7 @@
 
                         <h6 class="mt-4 text-white text-center">
 
-                            <span style="color:#f68713;font-family:'Inter';">
+                            <span style="color:#54a646;font-family:'Inter';">
                                 Empanelled with UPNEDA,
                                 Vendor Code:
                             </span>
@@ -639,11 +639,11 @@
 
                         <h6 class="mt-1 text-white text-center">
 
-                            <span style="color:#f68713;font-family:'Inter';">
+                            <span style="color:#54a646;font-family:'Inter';">
                                 GSTIN:
                             </span>
 
-                            09NLJPS0972J1Z6
+                            09ACOFA5801F1ZF
 
                         </h6>
 
@@ -666,8 +666,7 @@
                                     Copyright © 2025
 
                                     <a href="#">
-                                        Shahi Group of Enterprises
-                                        Solar and Powerdivision
+                                        Aarambh Energies Solar and Powerdivision
                                     </a>
 
                                     All rights reserved.
@@ -685,10 +684,10 @@
 
                                 Design and Developed by
 
-                                <a href="https://www.sigmasoftwares.org/"
+                                <a href="https://www.linkedin.com/in/sakib-khan-8b5312272/"
                                    target="_blank">
 
-                                    SigmaIT Software Designers Pvt. Ltd.
+                                    CODERSARTH TECHNOLOGIES
 
                                 </a>
 
