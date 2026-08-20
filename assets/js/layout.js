@@ -114,25 +114,25 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="On-grid-solar-system.html">
+                                    <a href="ON-Grid-Solar-System.html">
                                         ON Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Off-grid-solar-system.html">
+                                    <a href="ON-Grid-Solar-System.html">
                                         Off-Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Solar-submersible-pump.html">
+                                    <a href="Solar-Submersible-Pump.html">
                                         Solar Submersible Pump
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Solar-water-heater.html">
+                                    <a href="Solar-Water-Heater.html">
                                         Solar Water Heater
                                     </a>
                                 </li>
@@ -248,25 +248,25 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="On-grid-solar-system.html">
+                                    <a href="ON-Grid-Solar-System.html">
                                         ON Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Off-grid-solar-system.html">
+                                    <a href="ON-Grid-Solar-System.html">
                                         Off-Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Solar-submersible-pump.html">
+                                    <a href="Solar-Submersible-Pump.html">
                                         Solar Submersible Pump
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="Solar-water-heater.html">
+                                    <a href="Solar-Water-Heater.html">
                                         Solar Water Heater
                                     </a>
                                 </li>
@@ -380,7 +380,7 @@
                                 <ul class="social-link">
 
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/profile.php?id=61591000192825">
                                             <i class="fa-brands fa-facebook-f"></i>
                                         </a>
                                     </li>
@@ -459,13 +459,13 @@
                                     </li>
 
                                     <li>
-                                        <a href="Terms-and-conditions.html">
+                                        <a href="Terms-and-Conditions.html">
                                             Terms & Conditions
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="Privacy-policy.html">
+                                        <a href="Privacy-Policy.html">
                                             Privacy Policy
                                         </a>
                                     </li>
@@ -490,25 +490,25 @@
                                 <ul class="contact list-unstyled quick-link">
 
                                     <li>
-                                        <a href="On-grid-solar-system.html">
+                                        <a href="ON-Grid-Solar-System.html">
                                             ON Grid Solar System
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="Off-grid-solar-system.html">
+                                        <a href="ON-Grid-Solar-System.html">
                                             Off-Grid Solar System
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="Solar-submersible-pump.html">
+                                        <a href="Solar-Submersible-Pump.html">
                                             Solar Submersible Pump
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="Solar-water-heater.html">
+                                        <a href="Solar-Water-Heater.html">
                                             Solar Water Heater
                                         </a>
                                     </li>
