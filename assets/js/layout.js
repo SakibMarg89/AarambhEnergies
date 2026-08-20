@@ -97,7 +97,7 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="about-us.html">
+                                    <a href="About-us.html">
                                         About Us
                                     </a>
                                 </li>
@@ -120,25 +120,25 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="on-grid-solar-system.html">
+                                    <a href="On-grid-solar-system.html">
                                         ON Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="off-grid-solar-system.html">
+                                    <a href="Off-grid-solar-system.html">
                                         Off-Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="solar-submersible-pump.html">
+                                    <a href="Solar-submersible-pump.html">
                                         Solar Submersible Pump
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="solar-water-heater.html">
+                                    <a href="Solar-water-heater.html">
                                         Solar Water Heater
                                     </a>
                                 </li>
@@ -158,7 +158,7 @@
 
                         <li>
                             <a class="d-flex align-items-center"
-                               href="gallery.html">
+                               href="Gallery.html">
                                 Gallery
                             </a>
                         </li>
@@ -166,7 +166,7 @@
 
                         <li>
                             <a class="d-flex align-items-center"
-                               href="contact-us.html">
+                               href="Contact-us.html">
                                 Contact Us
                             </a>
                         </li>
@@ -174,7 +174,7 @@
                     </ul>
 
 
-                    <a href="contact-us.html"
+                    <a href="Contact-us.html"
                        class="primary-btn d-lg-none">
 
                         Get a Quote
@@ -231,7 +231,7 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="about-us.html">
+                                    <a href="About-us.html">
                                         About Us
                                     </a>
                                 </li>
@@ -254,25 +254,25 @@
                             <ul class="submenu-dropdown">
 
                                 <li>
-                                    <a href="on-grid-solar-system.html">
+                                    <a href="On-grid-solar-system.html">
                                         ON Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="off-grid-solar-system.html">
+                                    <a href="Off-grid-solar-system.html">
                                         Off-Grid Solar System
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="solar-submersible-pump.html">
+                                    <a href="Solar-submersible-pump.html">
                                         Solar Submersible Pump
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a href="solar-water-heater.html">
+                                    <a href="Solar-water-heater.html">
                                         Solar Water Heater
                                     </a>
                                 </li>
@@ -294,7 +294,7 @@
 
                         <li>
                             <a class="d-flex align-items-center"
-                               href="gallery.html">
+                               href="Gallery.html">
 
                                 <span>Gallery</span>
 
@@ -304,7 +304,7 @@
 
                         <li>
                             <a class="d-flex align-items-center"
-                               href="contact-us.html">
+                               href="Contact-us.html">
 
                                 <span>Contact Us</span>
 
@@ -316,7 +316,7 @@
 
                     <div class="d-flex align-items-center gap-1 gap-sm-2 gap-md-3">
 
-                        <a href="contact-us.html"
+                        <a href="Contact-us.html"
                            class="primary-btn d-none d-lg-block">
 
                             Get a Quote
@@ -435,7 +435,7 @@
                                     </li>
 
                                     <li>
-                                        <a href="about-us.html">
+                                        <a href="About-us.html">
                                             About Us
                                         </a>
                                     </li>
@@ -453,25 +453,25 @@
                                     </li>
 
                                     <li>
-                                        <a href="gallery.html">
+                                        <a href="Gallery.html">
                                             Gallery
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="contact-us.html">
+                                        <a href="Contact-us.html">
                                             Contact Us
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="terms-and-conditions.html">
+                                        <a href="Terms-and-conditions.html">
                                             Terms & Conditions
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="privacy-policy.html">
+                                        <a href="Privacy-policy.html">
                                             Privacy Policy
                                         </a>
                                     </li>
@@ -496,25 +496,25 @@
                                 <ul class="contact list-unstyled quick-link">
 
                                     <li>
-                                        <a href="on-grid-solar-system.html">
+                                        <a href="On-grid-solar-system.html">
                                             ON Grid Solar System
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="off-grid-solar-system.html">
+                                        <a href="Off-grid-solar-system.html">
                                             Off-Grid Solar System
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="solar-submersible-pump.html">
+                                        <a href="Solar-submersible-pump.html">
                                             Solar Submersible Pump
                                         </a>
                                     </li>
 
                                     <li>
-                                        <a href="solar-water-heater.html">
+                                        <a href="Solar-water-heater.html">
                                             Solar Water Heater
                                         </a>
                                     </li>
@@ -836,7 +836,7 @@
         </button>
 
 
-        <a href="contact-us.html"
+        <a href="Contact-us.html"
            class="contact-us-button">
 
             Contact Us
